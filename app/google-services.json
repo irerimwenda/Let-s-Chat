@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "328556956699",
+    "firebase_url": "https://fir-chatapp-4288c.firebaseio.com",
+    "project_id": "fir-chatapp-4288c",
+    "storage_bucket": "fir-chatapp-4288c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328556956699:android:c0971dc6971b2a48",
+        "android_client_info": {
+          "package_name": "com.example.ireribrian.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328556956699-4vobt7nrkj5jttar3bgbq1rebpeivco1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWkQWfqwRXKspyXcwf6WXAjeYrkpgD_xA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

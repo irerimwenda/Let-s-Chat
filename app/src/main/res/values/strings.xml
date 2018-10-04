@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseChatApp</string>
+    <string name="user_successfully_added">User Successfully added</string>
+    <string name="user_unable_to_add">Unable to add user</string>
+
+    <string name="logout">Logout</string>
+    <string name="are_you_sure">Are you sure</string>
+</resources>
